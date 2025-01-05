@@ -1,0 +1,2 @@
+# Climate Change Modeling Machine Learning Projects
+The climate change modeling project aims to devlop a machine learning model to predict and understand various aspects of climate change. This include predicting temperature changes,sea level rise, extreme weather events, and other related phenomena.I have analyzed historical climate data, identifying trends, and making future projections to help in planning and mitigation efforts.
